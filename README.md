@@ -4,4 +4,4 @@
 + model (Bank_90490, Mahasiswa_90490, Pembayaran_Spp_90490)
 + oraclejava (oraclejava)
 + view (Transaksiview)
-+ DataBase (risaldi.dmp)
++ DataBase (risaldi.dmp,Sistemjual.DBF)
